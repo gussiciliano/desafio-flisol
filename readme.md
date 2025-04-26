@@ -6,7 +6,7 @@ El archivo desafio.js tiene dos problemas:
 
 1- Tiene un error de performance, que es contextual a las palabras que se pueden ingresar, el código puede ser más performante.
 
-2- Hay un bug que también es contextual a las palabras que se pueden ingresar, relacionado con un error de tipeo del usuario que no se ve a simple vista.
+2- Hay un bug que también es contextual a las palabras que se pueden ingresar, relacionado con un error de tipeo del usuario que no se ve a simple vista. Este error no está en los ejemplos de console.log, cuál puede ser?
 
 Se puede testear en:
 
